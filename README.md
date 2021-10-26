@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there! 😁
 
-<!--
-**GalloaFranco/GalloaFranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Franco, I'm from Argentina and I'm a software developer.
 
-Here are some ideas to get you started:
+Today I'm working for [Sitmlix](https://simtlix.com/) as a Cloud Backend Developer in an e-commerce solution. I'm a proactive person, , critical thinking, good teammate and problem solving. I love agile teams and I enjoy the synergy it generates.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Skills** 💪🏻
+
+- Typescript/Javascript coding since 2018
+    - Jest/Jasmine for unit testing
+    - NestJS for backend
+    - Angular for frontend
+    - Vanilla for Lambdas
+- AWS as cloud development platform
+    - Lambdas
+    - SNS
+    - SQS
+    - DynamoDB
+    - RDS
+- Docker/DockerCompose  as local development environment
+    - Creating Images
+    - Running multi-container services
+- Linux passionate
+    - Ubuntu distro for diary work since 2018
+    - Bash scripting (mostly to automate boring tasks 😅)
+    
+
+## **Contact** 📘
+
+Find me on [Linkedin](https://www.linkedin.com/in/franco-antonio-gallo/)
+
