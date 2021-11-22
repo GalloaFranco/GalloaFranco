@@ -2,7 +2,7 @@
 
 My name is Franco, I'm from Argentina and I'm a software developer.
 
-Today I'm working for [Sitmlix](https://simtlix.com/) as a Cloud Backend Developer in an e-commerce solution. I'm a proactive person, , critical thinking, good teammate and problem solving. I love agile teams and I enjoy the synergy it generates.
+Today I'm working for [Sitmlix](https://simtlix.com/) as a Cloud Backend Developer in an e-commerce solution. I'm a proactive person, critical thinking, good teammate and problem solving. I love agile teams and I enjoy the synergy it generates.
 
 ## **Skills** 💪🏻
 
