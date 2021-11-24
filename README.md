@@ -10,7 +10,7 @@ Today I'm working for [Sitmlix](https://simtlix.com/) as a Cloud Backend Develop
     - Jest/Jasmine for unit testing
     - NestJS for backend
     - Angular for frontend
-    - Vanilla for Lambdas
+    - "Vanilla" TS for Lambdas
 - AWS as cloud development platform
     - Lambdas
     - SNS
