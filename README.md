@@ -25,7 +25,11 @@ Today I'm working for [Sitmlix](https://simtlix.com/) as a Cloud Backend Develop
       configure pipelines with multiple stages to be triggered by Bitbucket hooks,
       creation of Jenkinsfile for spring boot and angular projects, etc.
     - Experience using GitLab pipelines and creating .gitlab-ci.yaml files
-    
+ - Linux passionate
+    - Ubuntu distro for diary work since 2018
+    - Bash scripting (mostly to automate boring tasks sweat_smile)  
+   
+   
 
 ## **Contact** 📘
 
