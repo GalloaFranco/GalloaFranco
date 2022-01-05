@@ -22,7 +22,7 @@ Today I'm working for [Sitmlix](https://simtlix.com/) as a Cloud Backend Develop
     - Experience using GitLab pipelines and creating .gitlab-ci.yaml files
  - Linux passionate
     - Ubuntu distro for diary work since 2018
-    - Bash scripting (mostly to automate boring tasks sweat_smile)  
+    - Bash scripting (mostly to automate boring tasks 😀)  
    
    
 
