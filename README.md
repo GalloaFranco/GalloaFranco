@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=GalloaFranco&style=flat-square)
+
 # Hi there! 😁
 
 My name is Franco, I'm from Argentina and I'm a software developer.
