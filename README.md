@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=GalloaFranco&style=flat-square)
 
-# Hi there! 😁
-
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 My name is Franco, I'm from Argentina and I'm a software developer.
 
 Today I'm working for [Sitmlix](https://simtlix.com/) as a Cloud Backend Developer in an e-commerce solution. I'm a proactive person, critical thinking, good teammate and problem solving. I love agile teams and I enjoy the synergy it generates.
@@ -30,5 +29,10 @@ Today I'm working for [Sitmlix](https://simtlix.com/) as a Cloud Backend Develop
 
 ## **Contact** 📘
 
-Find me on [Linkedin](https://www.linkedin.com/in/franco-antonio-gallo/)
+<a href="https://www.linkedin.com/in/franco-antonio-gallo/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
+## **Stats** 🧐
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galloafranco&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
