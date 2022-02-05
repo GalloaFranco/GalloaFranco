@@ -16,6 +16,7 @@ Today I'm working for [Sitmlix](https://simtlix.com/) as a Cloud Backend Develop
 - Docker/DockerCompose  as local development environment
     - Creating Images
     - Running multi-container services
+    - Localstack
 - CI/CD
     - Experience mounting (from zero) dockerized Jenkins in on-premise server,
       configure pipelines with multiple stages to be triggered by Bitbucket hooks,
@@ -23,7 +24,7 @@ Today I'm working for [Sitmlix](https://simtlix.com/) as a Cloud Backend Develop
     - Experience using GitLab pipelines and creating .gitlab-ci.yaml files
  - Linux passionate
     - Ubuntu distro for diary work since 2018
-    - Bash scripting (mostly to automate boring tasks 😀)  
+    - Bash scripting (mostly to automate boring tasks 😀)
    
    
 
