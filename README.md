@@ -36,4 +36,4 @@ Today I'm working for [Sitmlix](https://simtlix.com/) as a Cloud Backend Develop
 
 ## **Stats** 🧐
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galloafranco&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galloafranco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
