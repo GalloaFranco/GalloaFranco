@@ -3,9 +3,11 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 My name is Franco, I'm from Argentina and I'm a software developer.
 
-Today I'm working for [Sitmlix](https://simtlix.com/) as a Cloud Backend Developer in an e-commerce solution. I'm a proactive person, critical thinking, good teammate and problem solving. I love agile teams and I enjoy the synergy it generates.
+Today I'm working for [Mercado Libre](https://mercadolibre.com/) as a Backend Software Engineer in an e-commerce solution. I'm a proactive person, critical thinking, good teammate and problem solving. I love agile teams and I enjoy the synergy it generates.
 
 ## **Skills** 💪🏻
+
+- Golang coding 2022 in progress...
 
 - Typescript/Javascript coding since 2018
     - Jest/Jasmine for unit testing
