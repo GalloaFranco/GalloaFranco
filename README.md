@@ -7,7 +7,7 @@ Today I'm working for [Mercado Libre](https://mercadolibre.com/) as a Backend So
 
 ## **Skills** 💪🏻
 
-- Golang coding 2022 in progress...
+- Golang in progress ⏱...
 
 - Typescript/Javascript coding since 2018
     - Jest/Jasmine for unit testing
