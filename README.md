@@ -30,13 +30,6 @@ I'm also working on side projects with friends...stay tuned!
     - Ubuntu distro for diary work since 2018
     - Bash scripting (mostly to automate boring tasks 😀)
    
-   
-
-## **Contact** 📘
-
-<a href="https://www.linkedin.com/in/franco-antonio-gallo/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
 
 
 ## Thanks to watch my profile, bye ✨ 
