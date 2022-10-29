@@ -32,5 +32,5 @@ I'm also working on side projects with friends...stay tuned!
    
 
 
-## Thanks to watch my profile, bye ✨ 
+## Thanks for watching my profile, bye ✨ 
 <img src="https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif" width="400px"/>
